@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fc0c4fb6-33a8-4862-9e8d-ee55ede72bfb)![image](https://github.com/user-attachments/assets/fc3b26d7-f213-4f77-853e-4da54aa58609)![image](https://github.com/user-attachments/assets/4db1bee8-4627-4f16-9fd2-9a49653e4337)# Generation SG - Junior Data Engineer Bootcamp - Interim Project
+# Generation SG - Junior Data Engineer Bootcamp - Interim Project
 
 # Sustainability using renewable energy
 
