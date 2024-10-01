@@ -29,7 +29,7 @@ To do so, we embarked on an exploratory data analysis (EDA) with sources extract
 ![image](https://github.com/user-attachments/assets/48e08087-bc18-4a3e-90fc-3f2227c94e18)
 
 # Data Visualization
-[](https://public.tableau.com/views/GlobalSustainability_17244000995580/JDEinterimproject?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Dashboard](https://public.tableau.com/views/GlobalSustainability_17244000995580/JDEinterimproject?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
