@@ -22,6 +22,15 @@ To do so, we embarked on an exploratory data analysis (EDA) with sources extract
 ![image](https://github.com/user-attachments/assets/dd099a28-8124-4585-8474-8a8bebedcb2b)
 
 # Load
+![image](https://github.com/user-attachments/assets/a7c7bf72-a2c9-4d02-bd38-a445af5d4d94)
+
+![image](https://github.com/user-attachments/assets/f085743c-ef1a-407a-94ec-3d6614806f43)
+
+![image](https://github.com/user-attachments/assets/48e08087-bc18-4a3e-90fc-3f2227c94e18)
+
+# Data Visualization
+[](https://public.tableau.com/views/GlobalSustainability_17244000995580/JDEinterimproject?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 
 
